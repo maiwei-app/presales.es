@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.23.0](https://github.com/maiwei-app/presales.es/compare/v2.22.0...v2.23.0) (2026-11-02)
+
+
+### Features
+
+* add 2 new badges ([#207](https://github.com/maiwei-app/presales.es/issues/207)) ([1243e8d](https://github.com/maiwei-app/presales.es/commit/1243e8d9b8ab93fc13e4c00c74f03bb0f9e4a18f))
+
 ## [2.22.0](https://github.com/maiwei-app/presales.es/compare/v2.21.0...v2.22.0) (2026-10-28)
 
 
